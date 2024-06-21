@@ -1,0 +1,26 @@
+{
+  "name": "nuxt-app",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "@nuxt/scripts": "^0.5.1",
+    "@popperjs/core": "^2.11.8",
+    "bootstrap": "^5.3.3",
+    "gentelella": "^1.4.0",
+    "icheck-bootstrap": "^3.0.1",
+    "jquery": "^3.7.1",
+    "jquery-ui": "^1.13.3",
+    "nprogress": "^0.2.0",
+    "nuxt": "^3.12.1",
+    "progressbar.js": "^1.1.1",
+    "vue": "^3.4.27",
+    "vue-router": "^4.3.3"
+  }
+}
